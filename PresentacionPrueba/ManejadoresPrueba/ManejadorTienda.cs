@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AccesoDatos
+namespace ManejadoresPrueba
 {
-    public class Tienda
+    public class ManejadorTienda
     {
     }
 }
